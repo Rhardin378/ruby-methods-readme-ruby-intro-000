@@ -1,5 +1,3 @@
-def Anthony_is_what
-  puts "Big Bitch"
-end
+Anthony = "Big Bitch"
+puts Anthony
 
-Anthony_is_what
