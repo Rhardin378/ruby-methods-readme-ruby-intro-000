@@ -11,4 +11,4 @@ def How_Big_A_Bitch_Ant_is
   puts Anthony
 end
 
-How_Big_A_Bitch_Ant_is
+puts How_Big_A_Bitch_Ant_is
