@@ -12,4 +12,3 @@ def How_Big_A_Bitch_Ant_is
 end
 
 How_Big_A_Bitch_Ant_is
-
