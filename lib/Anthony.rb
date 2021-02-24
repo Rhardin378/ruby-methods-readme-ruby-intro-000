@@ -1,5 +1,9 @@
-def How_Big_A_Bitch_Ant_is
-  Anthony = "Dog"
+def greeting
+  puts "Hello World"
+end
 
-
-puts How_Big_A_Bitch_Ant_is
+greeting
+greeting
+greeting
+greeting
+greeting
