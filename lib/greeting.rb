@@ -3,3 +3,4 @@ def phrase
 end
 
 puts phrase
+puts phrase
