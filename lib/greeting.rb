@@ -1,6 +1,6 @@
-def Anthony_is
+def phrase
   puts "Big Bitch"
 end
 
-Anthony_is
-Anthony_is
+puts phrase
+
